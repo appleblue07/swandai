@@ -1,0 +1,6 @@
+{
+  "name": "대학생 자동 시간표 생성기 & 휴강 알림 (Excel 저장)",
+  "description": "학과, 교수님, 수업 정보를 입력받아 주간 시간표를 자동으로 편성하고 휴강 알림 발송 및 엑셀(.xlsx) 파일로 저장하는 간편 대학 시간표 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
